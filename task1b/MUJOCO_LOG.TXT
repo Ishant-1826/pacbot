@@ -1,0 +1,2 @@
+ERROR Sun Oct  4 13:17:34 2026: Unrecognized command-line flag: --help
+
